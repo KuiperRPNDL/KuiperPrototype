@@ -38,19 +38,9 @@ Raise Venture Capital 1-2 months - Goal to finish by March 15th 2025
 Develop Kuiper MK 1 8-10 months - Goal to finish by February 1st 2026
 Manufacture and ship devices 6-12 months - Goal to finish by January 1st 2027
 
-## Asset Division:
+## Key Research Areas:
 
-Nicklaus Badyal 20% of company
-Rafael Park 20% of company
-Liam Shatzel 20% of company
-Dhowa Husrevoglu 20% of company
-Payton Webber 20% of company
-
-We either go big together or go home together boys.
-
-Key Research Areas:
-
-## Embedded systems
+Embedded systems
 PiKVM
 Network systems
 Data encryption/cryptography
